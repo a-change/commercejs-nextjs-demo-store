@@ -7,7 +7,6 @@ import commerce from '../lib/commerce';
 import { loadStripe } from '@stripe/stripe-js';
 import { setCustomer } from '../store/actions/authenticateActions';
 import 'swiper/components/effect-fade/effect-fade.scss';
-import Script from 'next/script';
 
 const MyApp = ({Component, pageProps}) => {
 
