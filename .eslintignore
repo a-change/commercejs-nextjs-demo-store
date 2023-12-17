@@ -1,0 +1,7 @@
+/build
+/node_modules
+/node
+/target
+.next
+/src
+/pages
