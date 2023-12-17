@@ -6,7 +6,7 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "deploy": "npm_config_yes=true npx yarn-audit-fix && next build && next export",
+    "deploy": "next build && next export",
     "lint": "eslint components lib pages store utils",
     "lint:fix": "eslint --fix components lib pages store utils",
     "seed": "chec-seed seeds"
