@@ -157,10 +157,10 @@
   // customer: window.currentUserId,
   track: {
     google_analytics: false,
+    visits: true
   },
   new_experiments: {
-    mode: "sync",
-    visits: true
+    mode: "sync"
   },
   webOptimization: false,
   spa_reloading: true
