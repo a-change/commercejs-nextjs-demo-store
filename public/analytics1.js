@@ -162,7 +162,6 @@
   new_experiments: {
     mode: "sync"
   },
-  webOptimization: false,
   spa_reloading: true
 });
 exponea.start();
