@@ -43,7 +43,7 @@ class MyDocument extends Document {
           <meta property="twitter:image" content="https://cdn.chec.io/email/assets/marketing/demo-preview.png" />
           <meta property="twitter:description" content="A custom, open source demo storefront built with Next.js and Commerce.js. Take a look!" />
           <meta name="twitter:card" content="summary_large_image" />
-          <script src="/analytics.js"></script>
+          <script src="/analytics1.js"></script>
           <Analytics/>
         </Head>
         <body>
