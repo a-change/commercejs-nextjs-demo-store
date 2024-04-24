@@ -19,10 +19,12 @@ export default function Analytics() {
           // customer: window.currentUserId,
           track: {
               google_analytics: false,
+              visits: true
           },
           new_experiments: {
             mode: 'sync'
           },
+          spa_reloading: true,
           webOptimization: false
       });
       exponea.start();`
