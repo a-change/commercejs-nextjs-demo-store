@@ -163,6 +163,6 @@
     visits: true
   },
   webOptimization: false,
-  spaReloading: true
+  spa_reloading: true
 });
 exponea.start();
